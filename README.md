@@ -2,7 +2,7 @@
 
 <a name="intro"></a>
 # SMOKEFLAKE - VIDEO ART
-Description.
+World in ashes. 
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
